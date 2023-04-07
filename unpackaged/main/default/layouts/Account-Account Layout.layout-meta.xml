@@ -31,6 +31,10 @@
                 <behavior>Edit</behavior>
                 <field>Gearset_Trial__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Account_Email__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
