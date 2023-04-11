@@ -4,5 +4,5 @@
     <active>true</active>
     <description>Opportunity_Rule_1</description>
     <errorConditionFormula>ISCHANGED(Amount)</errorConditionFormula>
-    <errorMessage>Amount cannot be changed</errorMessage>
+    <errorMessage>Amount cannot be changed (updated message)</errorMessage>
 </ValidationRule>
